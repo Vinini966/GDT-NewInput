@@ -84,7 +84,7 @@ public class Player_Controler : MonoBehaviour
 
     private void OnFire()
     {
-
+        Debug.Log("Pew!");
     }
 
     private void OnEnable()
